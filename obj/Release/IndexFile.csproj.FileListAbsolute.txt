@@ -1,0 +1,6 @@
+D:\5SEMESTR\SBD\projekt\projekt2\projekt2PlikIndeksowy\projekt2PlikIndeksowy\bin\Release\projekt2PlikIndeksowy.exe.config
+D:\5SEMESTR\SBD\projekt\projekt2\projekt2PlikIndeksowy\projekt2PlikIndeksowy\bin\Release\projekt2PlikIndeksowy.exe
+D:\5SEMESTR\SBD\projekt\projekt2\projekt2PlikIndeksowy\projekt2PlikIndeksowy\bin\Release\projekt2PlikIndeksowy.pdb
+D:\5SEMESTR\SBD\projekt\projekt2\projekt2PlikIndeksowy\projekt2PlikIndeksowy\obj\Release\projekt2PlikIndeksowy.exe
+D:\5SEMESTR\SBD\projekt\projekt2\projekt2PlikIndeksowy\projekt2PlikIndeksowy\obj\Release\projekt2PlikIndeksowy.pdb
+D:\5SEMESTR\SBD\projekt\projekt2\projekt2PlikIndeksowy\projekt2PlikIndeksowy\obj\Release\IndexFile.csprojResolveAssemblyReference.cache
